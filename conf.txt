@@ -1,0 +1,14 @@
+Project SAE configuration file
+*STOCK NAME*
+ID=MPBS
+PRICE=2345
+INST=50
+*MARKET*
+ID=Banche Italiane
+*AGENTS DETAILS*
+TOP=5
+BIG=15
+RETAIL=20
+*SCHEDULE*
+DAYS=1
+IPD=150
